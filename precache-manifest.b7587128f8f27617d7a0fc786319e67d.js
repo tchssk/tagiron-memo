@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "587d75944476d4f4b4503b5ecdbd0e12",
+    "revision": "3a859eb2144e6c34a464062af031257b",
     "url": "/tagiron-memo/index.html"
   },
   {

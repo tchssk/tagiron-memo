@@ -352,7 +352,7 @@ const Player = () => {
             className={classes.textField}
             fullWidth={true}
             inputProps={{ style: { textAlign: "center" } }}
-            label="先頭3枚"
+            label="前方3枚"
             size="small"
             variant="outlined"
           />

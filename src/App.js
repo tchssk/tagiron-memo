@@ -293,6 +293,7 @@ const Player = () => {
               inputProps={{ style: { textAlign: "center" } }}
               onClick={ event => event.stopPropagation() }
               size="small"
+              type="number"
               variant="outlined"
             />
           </ChangeablePaper>
@@ -305,6 +306,7 @@ const Player = () => {
               inputProps={{ style: { textAlign: "center" } }}
               onClick={ event => event.stopPropagation() }
               size="small"
+              type="number"
               variant="outlined"
             />
           </ChangeablePaper>
@@ -317,6 +319,7 @@ const Player = () => {
               inputProps={{ style: { textAlign: "center" } }}
               onClick={ event => event.stopPropagation() }
               size="small"
+              type="number"
               variant="outlined"
             />
           </ChangeablePaper>
@@ -329,6 +332,7 @@ const Player = () => {
               inputProps={{ style: { textAlign: "center" } }}
               onClick={ event => event.stopPropagation() }
               size="small"
+              type="number"
               variant="outlined"
             />
           </ChangeablePaper>
@@ -341,6 +345,7 @@ const Player = () => {
               inputProps={{ style: { textAlign: "center" } }}
               onClick={ event => event.stopPropagation() }
               size="small"
+              type="number"
               variant="outlined"
             />
           </ChangeablePaper>
@@ -354,6 +359,7 @@ const Player = () => {
             inputProps={{ style: { textAlign: "center" } }}
             label="前方3枚"
             size="small"
+            type="number"
             variant="outlined"
           />
         </Grid>
@@ -364,6 +370,7 @@ const Player = () => {
             inputProps={{ style: { textAlign: "center" } }}
             label="中央3枚"
             size="small"
+            type="number"
             variant="outlined"
           />
         </Grid>
@@ -374,6 +381,7 @@ const Player = () => {
             inputProps={{ style: { textAlign: "center" } }}
             label="後方3枚"
             size="small"
+            type="number"
             variant="outlined"
           />
         </Grid>
@@ -386,6 +394,7 @@ const Player = () => {
             inputProps={{ style: { textAlign: "center" } }}
             label="最大 − 最小"
             size="small"
+            type="number"
             variant="outlined"
           />
         </Grid>
@@ -396,6 +405,7 @@ const Player = () => {
             inputProps={{ style: { textAlign: "center" } }}
             label="中央５以上４以下"
             size="small"
+            type="number"
             variant="outlined"
           />
         </Grid>
@@ -411,6 +421,7 @@ const Player = () => {
                   inputProps={{ style: { textAlign: "center" } }}
                   label="枚数"
                   size="small"
+                  type="number"
                   variant="outlined"
                 />
               </Grid>
@@ -421,6 +432,7 @@ const Player = () => {
                   inputProps={{ style: { textAlign: "center" } }}
                   label="合計"
                   size="small"
+                  type="number"
                   variant="outlined"
                 />
               </Grid>
@@ -437,6 +449,7 @@ const Player = () => {
                   inputProps={{ style: { textAlign: "center" } }}
                   label="枚数"
                   size="small"
+                  type="number"
                   variant="outlined"
                 />
               </Grid>
@@ -447,6 +460,7 @@ const Player = () => {
                   inputProps={{ style: { textAlign: "center" } }}
                   label="合計"
                   size="small"
+                  type="number"
                   variant="outlined"
                 />
               </Grid>
@@ -463,6 +477,7 @@ const Player = () => {
                   inputProps={{ style: { textAlign: "center" } }}
                   label="ペア"
                   size="small"
+                  type="number"
                   variant="outlined"
                 />
               </Grid>
@@ -473,6 +488,7 @@ const Player = () => {
                   inputProps={{ style: { textAlign: "center" } }}
                   label="全合計"
                   size="small"
+                  type="number"
                   variant="outlined"
                 />
               </Grid>
@@ -489,6 +505,7 @@ const Player = () => {
                   inputProps={{ style: { textAlign: "center" } }}
                   label="偶数"
                   size="small"
+                  type="number"
                   variant="outlined"
                 />
               </Grid>
@@ -499,6 +516,7 @@ const Player = () => {
                   inputProps={{ style: { textAlign: "center" } }}
                   label="奇数"
                   size="small"
+                  type="number"
                   variant="outlined"
                 />
               </Grid>

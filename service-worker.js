@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tagiron-memo/precache-manifest.9dbda57a3621aad6f24c18d042d4061e.js"
+  "/tagiron-memo/precache-manifest.927cd73ed1348e189001087e95f83a95.js"
 );
 
 self.addEventListener('message', (event) => {

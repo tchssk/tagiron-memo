@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9bd7a3c33c43272ab8128135a2dc7247",
+    "revision": "149d5cb8c55505ce4037bb33d1d62ebe",
     "url": "/tagiron-memo/index.html"
   },
   {
-    "revision": "520a0ef8716938e9fd65",
+    "revision": "686216a975d1214a7d6a",
     "url": "/tagiron-memo/static/css/main.5ecd60fb.chunk.css"
   },
   {
-    "revision": "65d72dcc026bd041e576",
-    "url": "/tagiron-memo/static/js/2.da3456d3.chunk.js"
+    "revision": "3168a2e2aa1e76cbe1f9",
+    "url": "/tagiron-memo/static/js/2.e191dbd9.chunk.js"
   },
   {
     "revision": "fc22cfe8bc3937168425c45a9bf8ede0",
-    "url": "/tagiron-memo/static/js/2.da3456d3.chunk.js.LICENSE.txt"
+    "url": "/tagiron-memo/static/js/2.e191dbd9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "520a0ef8716938e9fd65",
-    "url": "/tagiron-memo/static/js/main.caac0f15.chunk.js"
+    "revision": "686216a975d1214a7d6a",
+    "url": "/tagiron-memo/static/js/main.ae1008d3.chunk.js"
   },
   {
     "revision": "dbc84ad98ef3ca0e84a4",

@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/tagiron-memo/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/tagiron-memo/static/js/main.caac0f15.chunk.js",
-    "main.js.map": "/tagiron-memo/static/js/main.caac0f15.chunk.js.map",
+    "main.js": "/tagiron-memo/static/js/main.ae1008d3.chunk.js",
+    "main.js.map": "/tagiron-memo/static/js/main.ae1008d3.chunk.js.map",
     "runtime-main.js": "/tagiron-memo/static/js/runtime-main.ee900344.js",
     "runtime-main.js.map": "/tagiron-memo/static/js/runtime-main.ee900344.js.map",
-    "static/js/2.da3456d3.chunk.js": "/tagiron-memo/static/js/2.da3456d3.chunk.js",
-    "static/js/2.da3456d3.chunk.js.map": "/tagiron-memo/static/js/2.da3456d3.chunk.js.map",
+    "static/js/2.e191dbd9.chunk.js": "/tagiron-memo/static/js/2.e191dbd9.chunk.js",
+    "static/js/2.e191dbd9.chunk.js.map": "/tagiron-memo/static/js/2.e191dbd9.chunk.js.map",
     "index.html": "/tagiron-memo/index.html",
-    "precache-manifest.4f69cc4a74d8565f1e7b8be9dc808e82.js": "/tagiron-memo/precache-manifest.4f69cc4a74d8565f1e7b8be9dc808e82.js",
+    "precache-manifest.fa6f0b097e5312ace6731807c2eb4384.js": "/tagiron-memo/precache-manifest.fa6f0b097e5312ace6731807c2eb4384.js",
     "service-worker.js": "/tagiron-memo/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/tagiron-memo/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.da3456d3.chunk.js.LICENSE.txt": "/tagiron-memo/static/js/2.da3456d3.chunk.js.LICENSE.txt"
+    "static/js/2.e191dbd9.chunk.js.LICENSE.txt": "/tagiron-memo/static/js/2.e191dbd9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ee900344.js",
-    "static/js/2.da3456d3.chunk.js",
+    "static/js/2.e191dbd9.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.caac0f15.chunk.js"
+    "static/js/main.ae1008d3.chunk.js"
   ]
 }

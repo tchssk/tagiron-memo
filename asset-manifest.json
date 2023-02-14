@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/tagiron-memo/static/css/main.e6c13ad2.css",
-    "main.js": "/tagiron-memo/static/js/main.760bad26.js",
+    "main.js": "/tagiron-memo/static/js/main.00088c00.js",
     "index.html": "/tagiron-memo/index.html",
     "main.e6c13ad2.css.map": "/tagiron-memo/static/css/main.e6c13ad2.css.map",
-    "main.760bad26.js.map": "/tagiron-memo/static/js/main.760bad26.js.map"
+    "main.00088c00.js.map": "/tagiron-memo/static/js/main.00088c00.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.760bad26.js"
+    "static/js/main.00088c00.js"
   ]
 }

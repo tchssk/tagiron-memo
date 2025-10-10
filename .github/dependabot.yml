@@ -8,4 +8,11 @@ updates:
           - '*'
     schedule:
       interval: "daily"
+    ignore:
+      - dependency-name: "@material-ui/core"
+        update-types: ["version-update:semver-major"]
+      - dependency-name: "@testing-library/jest-dom"
+        update-types: ["version-update:semver-major"]
+      - dependency-name: "@testing-library/react"
+        update-types: ["version-update:semver-major"]
     open-pull-requests-limit: 10
